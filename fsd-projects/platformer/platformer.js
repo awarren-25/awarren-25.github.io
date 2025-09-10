@@ -37,7 +37,7 @@ createPlatform(695,240,50,150,"orchid");
 createPlatform(690,500,150,50,"sandybrown");
 createPlatform(850,365,150,50,"red");
 createPlatform(810,165,100,40,"blue");
-createPlatform(400,245,75,50,"brown");
+createPlatform(400,245,75,50,"orange");
 createPlatform(560,605,75,50,"green");
 
 
