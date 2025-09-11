@@ -39,13 +39,16 @@ createPlatform(850,365,150,50,"red");
 createPlatform(810,165,100,40,"blue");
 createPlatform(400,245,75,50,"orange");
 createPlatform(560,605,75,50,"green");
+createPlatform(1090,334,50,50,"deeppink");
+createPlatform(1250,334,50,50,"goldenrod")
 
 
 
     // TODO 3 - Create Collectables
-createCollectable("max",695,195);
-createCollectable("grace",1054,245);
-createCollectable("diamond",425,200)
+createCollectable("max",695,195, 0.05);
+createCollectable("grace",1020,245);
+createCollectable("diamond",425,200,0.05);
+createCollectable("steve",1345,245)
 
 
     
@@ -53,6 +56,7 @@ createCollectable("diamond",425,200)
 createCannon("top",1055,1250);
 createCannon("bottom",335,600);
 createCannon("left",180,1250);
+createCannon("bottom",1150,1250)
 
     
     
