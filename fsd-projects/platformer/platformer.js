@@ -45,10 +45,10 @@ createPlatform(1250,334,50,50,"orange");
 
 
     // TODO 3 - Create Collectables
-createCollectable("max",695,195, 0.1);
-createCollectable("grace",1020,245);
-createCollectable("diamond",425,200,0.05);
-createCollectable("steve",1345,245);
+createCollectable("zooble",695,195, 0.1);
+createCollectable("zooble",1020,245);
+createCollectable("zooble",425,200,0.05);
+createCollectable("zooble",1345,245);
 
 
     

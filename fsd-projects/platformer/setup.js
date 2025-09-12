@@ -98,4 +98,5 @@ var collectableList = {
   kennedi: { image: "images/collectables/kennedi-head.png" },
   max: { image: "images/collectables/max-head.png" },
   steve: { image: "images/collectables/steve-head.png" },
+  zooble: {image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAb8sTDnBs2LJWZLMwV6WkH3WQ2c0Dok0F8w&s "},
 };
